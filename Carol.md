@@ -5,7 +5,8 @@
 ---
 ![alt text][image 1]
 
-[image 1]: [https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%201.png](https://github.com/Jasperae/Music/blob/main/IMG_8943.HEIC) "image 1"
+[image 1]: https://github.com/Jasperae/Music/blob/main/IMG_8943.HEIC "image 1"
+
 ---
 > Chorus: 2x
 Keresimesi keresimesi de, 2x
@@ -33,3 +34,5 @@ Sisters: Fun wa ooo
 All: Tabi jesu.... Eeee (_Change of key_)
 
 > Chorus..
+
+[image 1]: https://github.com/Jasperae/Music/blob/main/Screenshot%202025-12-13%20013755.png "image 1"
