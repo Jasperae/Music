@@ -8,6 +8,7 @@
 [image 1]: https://github.com/Jasperae/Music/blob/main/IMG_8943%201.png "image 1"
 
 ---
+---
 > Chorus: 2x
 Keresimesi keresimesi de, 2x
 Odun ayo loni je fun wa,
@@ -34,6 +35,8 @@ Sisters: Fun wa ooo
 All: Tabi jesu.... Eeee (_Change of key_)
 
 > Chorus..
+---
+
 ---
 ![alt text][image 2]
 
