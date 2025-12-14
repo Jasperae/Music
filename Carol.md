@@ -53,8 +53,7 @@ Sisters: Fun wa ooo
 All: Tabi jesu.... Eeee (_Change of key_)
 ---
 
-Chorus..
----
+# Chorus..
 
 ---
 ![alt text][image 2]
