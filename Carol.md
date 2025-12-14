@@ -34,7 +34,7 @@ Foba wa tabi loni
 ---
 
 # Chorus 
-
+---
 # Verse 2
 ---
 Ilu Bethlehem laa gbe bi
