@@ -10,9 +10,9 @@
 ---
 ---
 ## Chorus: 2x
-Keresimesi keresimesi de, 2x
-Odun ayo loni je fun wa,
-Keresimesi de,
+Keresimesi keresimesi de, 2x--
+Odun ayo loni je fun wa,--
+Keresimesi de,--
 Odun ayo loni je fun wa,
 Fun jesu taa bi loni
 
