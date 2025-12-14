@@ -10,29 +10,30 @@
 ---
 ---
 ## Chorus: 2x
-Keresimesi keresimesi de, 2x--
-Odun ayo loni je fun wa,--
-Keresimesi de,--
-Odun ayo loni je fun wa,
-Fun jesu taa bi loni
+
+> Keresimesi keresimesi de, 2x
+> Odun ayo loni je fun wa,
+> Keresimesi de,
+> Odun ayo loni je fun wa,
+> Fun jesu taa bi loni
 
 ## Verse 1
-Gbogbo orun Kun fun ayo
-Ogo ni folorun 
-Gbogbo aye foribale
-Foba wa tabi loni
+> Gbogbo orun Kun fun ayo
+> Ogo ni folorun 
+> Gbogbo aye foribale
+> Foba wa tabi loni
 
 ## Chorus 
 
 ## Verse 2
-Ilu Bethlehem laa gbe bi
-Oba alade wa
-Awon amoye ta lore
-Oba wa tabi loni
+> Ilu Bethlehem laa gbe bi
+> Oba alade wa
+> Awon amoye ta lore
+> Oba wa tabi loni
 
-brothers: Odun ayo loni je 6x
-Sisters: Fun wa ooo
-All: Tabi jesu.... Eeee (_Change of key_)
+> brothers: Odun ayo loni je 6x
+> Sisters: Fun wa ooo
+> All: Tabi jesu.... Eeee (_Change of key_)
 
 Chorus..
 ---
