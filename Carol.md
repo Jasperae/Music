@@ -34,6 +34,7 @@ Sisters: Fun wa ooo
 All: Tabi jesu.... Eeee (_Change of key_)
 
 > Chorus..
-![alt text][image 1]
+---
+![alt text][image 2]
 
-[image 1]: https://github.com/Jasperae/Music/blob/main/Screenshot%202025-12-13%20013755.png "image 1"
+[image 2]: https://github.com/Jasperae/Music/blob/main/Screenshot%202025-12-13%20013755.png "image 2"
