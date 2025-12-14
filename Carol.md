@@ -9,7 +9,7 @@
 
 ---
 ---
-#### Chorus: 2x
+# Chorus: 2x
 ---
 Keresimesi keresimesi de, 2x
 --- 
@@ -22,7 +22,7 @@ Odun ayo loni je fun wa,
 Fun jesu taa bi loni
 ---
 
-#### Verse 1
+# Verse 1
 ---
 Gbogbo orun Kun fun ayo
 ---
@@ -33,9 +33,9 @@ Gbogbo aye foribale
 Foba wa tabi loni
 ---
 
-#### Chorus 
+# Chorus 
 
-#### Verse 2
+# Verse 2
 ---
 Ilu Bethlehem laa gbe bi
 ---
