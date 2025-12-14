@@ -5,7 +5,7 @@
 ---
 ![alt text][image 1]
 
-[image 1]: https://github.com/Jasperae/Music/blob/main/IMG_8943.HEIC "image 1"
+[image 1]: https://github.com/Jasperae/Music/blob/main/IMG_8943%201.png "image 1"
 
 ---
 > Chorus: 2x
